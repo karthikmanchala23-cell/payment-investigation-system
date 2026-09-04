@@ -1,0 +1,274 @@
+[
+  {
+    "type": "duplicate_payment",
+    "record_ids": [
+      "ord_akIREyf2OH3YBh",
+      "pay_ZwkVRaC6Bnbr5w",
+      "pay_6SIEq44fPtFhYX"
+    ],
+    "details": "Order ord_akIREyf2OH3YBh has duplicate payments"
+  },
+  {
+    "type": "missing_payment",
+    "record_ids": [
+      "ord_HyS2GHnFtvNb3H"
+    ],
+    "details": "Order ord_HyS2GHnFtvNb3H has no payment"
+  },
+  {
+    "type": "missing_refund",
+    "record_ids": [
+      "ord_Rh1iO3J73RpC6N",
+      "pay_VQPVpWrdy9qYle"
+    ],
+    "details": "Order ord_Rh1iO3J73RpC6N marked for refund but none exists"
+  },
+  {
+    "type": "missing_payment",
+    "record_ids": [
+      "ord_XfnQsKDGAUuRqp"
+    ],
+    "details": "Order ord_XfnQsKDGAUuRqp has no payment"
+  },
+  {
+    "type": "duplicate_payment",
+    "record_ids": [
+      "ord_sVXLXHl2BpSOZn",
+      "pay_oV4YQrUYz0lrNM",
+      "pay_xjXW1aaY1MjM2C"
+    ],
+    "details": "Order ord_sVXLXHl2BpSOZn has duplicate payments"
+  },
+  {
+    "type": "settlement_mismatch",
+    "record_ids": [
+      "stl_8Xqw36tw7i19pH",
+      "pay_apbLZzIJz0KM38"
+    ],
+    "details": "Settlement amount 40841.64 != payment amount 40595.11"
+  },
+  {
+    "type": "missing_payment",
+    "record_ids": [
+      "ord_tJzaQUXHtOtRF1"
+    ],
+    "details": "Order ord_tJzaQUXHtOtRF1 has no payment"
+  },
+  {
+    "type": "missing_payment",
+    "record_ids": [
+      "ord_m4WvPR8LuJ7Mzk"
+    ],
+    "details": "Order ord_m4WvPR8LuJ7Mzk has no payment"
+  },
+  {
+    "type": "payment_order_mismatch",
+    "record_ids": [
+      "ord_2dIQfa9ausXJxe",
+      "pay_Mlnv24LJ3R2ljY"
+    ],
+    "details": "Payment amount 9069.28 != order amount 8702.41"
+  },
+  {
+    "type": "missing_refund",
+    "record_ids": [
+      "ord_jfP4tOPhRfINuh",
+      "pay_TQGOAwwln6Eoie"
+    ],
+    "details": "Order ord_jfP4tOPhRfINuh marked for refund but none exists"
+  },
+  {
+    "type": "missing_payment",
+    "record_ids": [
+      "ord_kJ0dqYdCDD65oQ"
+    ],
+    "details": "Order ord_kJ0dqYdCDD65oQ has no payment"
+  },
+  {
+    "type": "duplicate_payment",
+    "record_ids": [
+      "ord_VDiG6DSBNagdNL",
+      "pay_aZQ2IZ4FRAj8G8",
+      "pay_f6aXodetGDm9Ll"
+    ],
+    "details": "Order ord_VDiG6DSBNagdNL has duplicate payments"
+  },
+  {
+    "type": "incorrect_refund_amount",
+    "record_ids": [
+      "rfnd_TK1BFe8q2JlhVl",
+      "pay_8H4KPfA1lquCu2"
+    ],
+    "details": "Refund amount 23251.53 != payment amount 23422.77"
+  },
+  {
+    "type": "missing_refund",
+    "record_ids": [
+      "ord_aFxMPMDEaIaGr8",
+      "pay_RA6l4GoMpvXe7C"
+    ],
+    "details": "Order ord_aFxMPMDEaIaGr8 marked for refund but none exists"
+  },
+  {
+    "type": "duplicate_payment",
+    "record_ids": [
+      "ord_dBrtL39iyOOe6m",
+      "pay_w4nS6WsOGqRFd3",
+      "pay_yZszNnpvoa3Qrj"
+    ],
+    "details": "Order ord_dBrtL39iyOOe6m has duplicate payments"
+  },
+  {
+    "type": "payment_order_mismatch",
+    "record_ids": [
+      "ord_k754LEgw9YooJe",
+      "pay_eVVhDIq2AnHTmt"
+    ],
+    "details": "Payment amount 36700.44 != order amount 36622.19"
+  },
+  {
+    "type": "settlement_mismatch",
+    "record_ids": [
+      "stl_JhN8k4GBgXFNW0",
+      "pay_4cbX0GTtkJAIyM"
+    ],
+    "details": "Settlement amount 12429.24 != payment amount 12153.57"
+  },
+  {
+    "type": "payment_order_mismatch",
+    "record_ids": [
+      "ord_G5mSoyPstUeC99",
+      "pay_FiveprBHs8YGPI"
+    ],
+    "details": "Payment amount 4084.64 != order amount 3755.71"
+  },
+  {
+    "type": "duplicate_settlement",
+    "record_ids": [
+      "stl_ubC332fuOSkTfR",
+      "stl_eVSaUfK4wQQeq0",
+      "pay_2Vrks4Q4COfFlK"
+    ],
+    "details": "Payment pay_2Vrks4Q4COfFlK settled in multiple batches"
+  },
+  {
+    "type": "settlement_mismatch",
+    "record_ids": [
+      "stl_X6wP69FjChEo6b",
+      "pay_8T3kwmm0zoAEVV"
+    ],
+    "details": "Settlement amount 20326.7 != payment amount 20091.15"
+  },
+  {
+    "type": "missing_settlement",
+    "record_ids": [
+      "pay_O9qzycRJlTnHW4"
+    ],
+    "details": "Payment pay_O9qzycRJlTnHW4 has no settlement"
+  },
+  {
+    "type": "settlement_mismatch",
+    "record_ids": [
+      "stl_sGCwau4y9izUy4",
+      "pay_xDu7NskPlZLbm4"
+    ],
+    "details": "Settlement amount 19767.66 != payment amount 19592.74"
+  },
+  {
+    "type": "missing_settlement",
+    "record_ids": [
+      "pay_HT28dJppTQOpQC"
+    ],
+    "details": "Payment pay_HT28dJppTQOpQC has no settlement"
+  },
+  {
+    "type": "settlement_mismatch",
+    "record_ids": [
+      "stl_JKqJGAveZFsPtz",
+      "pay_VvMwBE0W0Hrc9y"
+    ],
+    "details": "Settlement amount 25073.38 != payment amount 24886.9"
+  },
+  {
+    "type": "missing_refund",
+    "record_ids": [
+      "ord_4x6mKZpRsQXXJc",
+      "pay_wFv0Yg7NZRBT7q"
+    ],
+    "details": "Order ord_4x6mKZpRsQXXJc marked for refund but none exists"
+  },
+  {
+    "type": "missing_refund",
+    "record_ids": [
+      "ord_Qrv8IUqFnnq5GN",
+      "pay_KxxKcRN1aAuOg4"
+    ],
+    "details": "Order ord_Qrv8IUqFnnq5GN marked for refund but none exists"
+  },
+  {
+    "type": "duplicate_payment",
+    "record_ids": [
+      "ord_Na5mQ5aoYZ99Zx",
+      "pay_jLMq5QS3t6O4za",
+      "pay_cvCC508C3CiUAb"
+    ],
+    "details": "Order ord_Na5mQ5aoYZ99Zx has duplicate payments"
+  },
+  {
+    "type": "duplicate_payment",
+    "record_ids": [
+      "ord_4csafhLKmPbjUr",
+      "pay_jFToJgJanlr3H8",
+      "pay_Wx1jwAY4j6nbDq"
+    ],
+    "details": "Order ord_4csafhLKmPbjUr has duplicate payments"
+  },
+  {
+    "type": "missing_refund",
+    "record_ids": [
+      "ord_rSrpFAZ8fgXpEK",
+      "pay_9ZELJL1PcgZNgf"
+    ],
+    "details": "Order ord_rSrpFAZ8fgXpEK marked for refund but none exists"
+  },
+  {
+    "type": "payment_order_mismatch",
+    "record_ids": [
+      "ord_V65j8HFOs38U9P",
+      "pay_4BQT3iIty0BfdN"
+    ],
+    "details": "Payment amount 40272.65 != order amount 39998.85"
+  },
+  {
+    "type": "duplicate_payment",
+    "record_ids": [
+      "ord_YWGdZHYOUmOh1R",
+      "pay_XhhmjI0c8FwHA6",
+      "pay_s7IoESA6j8d7eu"
+    ],
+    "details": "Order ord_YWGdZHYOUmOh1R has duplicate payments"
+  },
+  {
+    "type": "missing_settlement",
+    "record_ids": [
+      "pay_Z3bdAMhnpvwc2q"
+    ],
+    "details": "Payment pay_Z3bdAMhnpvwc2q has no settlement"
+  },
+  {
+    "type": "incorrect_refund_amount",
+    "record_ids": [
+      "rfnd_1lkFq3KK8GJzeV",
+      "pay_ocqRB95cwREE01"
+    ],
+    "details": "Refund amount 9490.23 != payment amount 9527.11"
+  },
+  {
+    "type": "orphan_record",
+    "record_ids": [
+      "rfnd_1w8dBzmuo2t48W",
+      "pay_6XzatjNQAhirSY"
+    ],
+    "details": "Refund rfnd_1w8dBzmuo2t48W references non-existent payment pay_6XzatjNQAhirSY"
+  }
+]
