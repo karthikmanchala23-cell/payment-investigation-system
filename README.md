@@ -7,9 +7,9 @@ An AI-assisted finance operations system that investigates payment lifecycle ano
 **Streamlit App:**  
 https://payment-investigation-system-uwcnzdu7ithqojpd3egqls.streamlit.app/
 
-## 💻 GitHub Repository
+## 💻 Video Demo
 
-https://github.com/karthikmanchala23-cell/payment-investigation-system
+[https://github.com/karthikmanchala23-cell/payment-investigation-system](https://drive.google.com/file/d/1wE29Js3pShmcClOMbhaYNSPWKoUYzhTl/view)
 
 ---
 
